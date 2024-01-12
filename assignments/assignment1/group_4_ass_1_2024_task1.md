@@ -17,3 +17,8 @@
 ### a. Database: Opinion Journalism
 ### b. Information: Data on Opinion Journalism, Citizen Journalism and Columns
 ### c. Interest: I would like to know how different network groups work with opinion journalism from 2013 to 2023.
+
+# Andrea Arrelucea - andrea.arrelucea@pucp.edu.pe
+### a. Database: 
+### b. Information: 
+### c. Interest: 
